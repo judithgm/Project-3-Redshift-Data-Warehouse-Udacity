@@ -86,14 +86,13 @@ execute the script in order to avoid inserting the same data multiple times.
 
 The logs in the Redshift console give us some information about the processes that have been running:
 
-[<img src="logs_etl_console.png" width="1500" height="800"/>](logs_etl_console.png)
+[<img src="logs_etl_console.png" width="800" height="300"/>](logs_etl_console.png)
 
 
 
 **Logs terminal:**
 
 ![logs_processes](logs_terminal_run_scripts.png) 
-
 
 
 
@@ -107,7 +106,8 @@ For this, the interface asks us to insert the cluster name, the database name an
 
 ![connect_to_db_console](connect_to_db_in_console.png) 
 
-Finalmente, este sería el aspecto del editor, donde se escriben las consultas y se reciben los resultados: 
+
+Finally, this would be the editor aspect, where you write your queries and receive the results: 
 
 
 ![redshift_console](redshift_console_connected_to_db.png) 
