@@ -86,7 +86,7 @@ execute the script in order to avoid inserting the same data multiple times.
 
 The logs in the Redshift console give us some information about the processes that have been running:
 
-[<img src="logs_etl_console.png" width="800" height="300"/>](logs_etl_console.png)
+[<img src="logs_etl_console.png" width="800" height="200"/>](logs_etl_console.png)
 
 
 
